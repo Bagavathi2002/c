@@ -10,7 +10,7 @@ int main(){
     }
     printf("The numbers are ");
     for(int i=0;i<n;i++){
-        printf("%d ",arr[i8]);
+        printf("%d ",arr[i]);
     }
     return 0;
 }
